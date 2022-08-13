@@ -1,0 +1,28 @@
+{
+    "name": "Ryan",
+    "lastName": "Ray",
+    "nickname": "Ray123",
+    "hobbies": [
+        "run",
+        "code",
+        "eat"
+    ],
+    "addres": {
+        "street": "123 Main street",
+        "city": "New York"
+    },
+    "married": false,
+    "friends": [{
+            "name": "Carlos",
+            "nickname": "joe123"
+        },
+        {
+            "name": "Carlos",
+            "nickname": "joe123"
+        },
+        {
+            "name": "Carlos",
+            "nickname": "joe1343"
+        }
+    ]
+}
